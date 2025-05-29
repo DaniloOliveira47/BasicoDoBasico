@@ -1,0 +1,17 @@
+{
+  "jogadores": [
+    {
+      "id": 4,
+      "nome": "Lucas",
+      "idade": 22,
+      "posicao": "Atacante"
+    },
+    {
+      "id": 5,
+      "nome": "Não sei",
+      "idade": 17,
+      "posicao": "Atacante"
+    }
+  ],
+  "idAtual": 6
+}

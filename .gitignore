@@ -1,0 +1,13 @@
+# Ignorar node_modules em todas as subpastas
+**/node_modules/
+
+# Ignorar node_modules apenas nas pastas api/ e jogadores/
+API/node_modules/
+jogadores/node_modules/
+
+# Outros arquivos/diretórios comuns a ignorar
+.env
+.DS_Store
+dist/
+build/
+*.log

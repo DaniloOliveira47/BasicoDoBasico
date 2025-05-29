@@ -1,0 +1,12 @@
+{
+  "jogadores": [
+    {
+      "id": 1,
+      "nome": "Pedro",
+      "idade": 22,
+      "posicao": "Ataque ",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAUIGorwaWgTXLHVeEiizQqWXsxzqzbkypJg&usqp=CAU"
+    }
+  ],
+  "idAtual": 2
+}
